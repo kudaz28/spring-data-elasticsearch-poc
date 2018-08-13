@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: wzhou
+Build-Jdk: 10.0.1
+Implementation-Title: spring-data-elasticsearch-poc
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.masterwill.chronos
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-data-elasticsearch-poc
+Created-By: Maven Integration for Eclipse
+
